@@ -1,3 +1,3 @@
 # ghp-test
 
-Some sample content
+Some sample content on gh-pages branch
